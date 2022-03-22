@@ -1,4 +1,3 @@
-papermill
 pandas
 sklearn
 matplotlib
@@ -6,3 +5,7 @@ ipython
 ipykernel
 jupyter-core
 mathjax>=0.1.2
+papermill
+kaggle
+os
+pillow
