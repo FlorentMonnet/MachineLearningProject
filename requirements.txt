@@ -7,5 +7,5 @@ jupyter-core
 mathjax>=0.1.2
 papermill
 kaggle
-os
 pillow
+webcolors
