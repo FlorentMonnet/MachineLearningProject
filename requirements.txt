@@ -9,3 +9,4 @@ papermill
 kaggle
 pillow
 webcolors
+seaborn
